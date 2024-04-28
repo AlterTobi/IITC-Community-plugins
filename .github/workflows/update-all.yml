@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - WFplanner-Test
 
 jobs:
   deploy:
